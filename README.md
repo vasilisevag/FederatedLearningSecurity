@@ -1,5 +1,7 @@
 # FederatedLearningSecurity
 
+## Abstract
+The idea of federated learning is to collaboratively train a neural network on a server. Each user receives the current weights of the network and in turns sends parameter updates (gradients) based on local data. This protocol has been designed not only to train neural networks data-efficiently, but also to provide privacy benefits for users, as their input data remains on device and only parameter gradients are shared. In this diploma thesis, we simulate various attacks aimed at leaking information from users' devices as well as undermining the integrity of the machine learning model of the federated learning system. From the simulations, it seems that federated learning as a protection measure by itself is not always sufficient and should be reinforced with additional protection measures with the aim of ensuring the integrity of the entire system.
 
 ## Motivation
 This repository provides code to investigate the security issues of federated learning systems under the scope of various attack methods and countermeasures. We simulate the attacks using the federated learning framework, Flower. The code can be used to reproduce results and conclusions from the papers listed below, all simulated via the Flower framework.  
