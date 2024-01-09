@@ -1,3 +1,4 @@
 # FederatedLearningSecurity
 
-## This repository provides code to investigate the security issues of federated learning systems under the scope of different attack methods and countermeasures. We simulate the attacks using the federated learning framework, Flower.
+## Motivation
+This repository provides code to investigate the security issues of federated learning systems under the scope of different attack methods and countermeasures. We simulate the attacks using the federated learning framework, Flower.
