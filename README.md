@@ -14,6 +14,6 @@ In order to run the code, all you have to do is simply download and run the note
 
 [2]: [Data Poisoning Attacks Against Federated Learning Systems](https://arxiv.org/pdf/2007.08432.pdf)
 
-[3]: [Inverting Gradients - How easy is it to break privacy in federated learning?]([https://www.google.com](https://arxiv.org/pdf/2003.14053.pdf))
+[3]: [Inverting Gradients - How easy is it to break privacy in federated learning?](https://arxiv.org/pdf/2003.14053.pdf)
 
-[4]: [Membership Inference Attacks Against Machine Learning Models]([https://www.google.com (https://arxiv.org/pdf/1610.05820.pdf)https://arxiv.org/pdf/1610.05820.pdf)
+[4]: [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)
