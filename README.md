@@ -8,3 +8,6 @@ In our experiments we use the Cifar-10 and Mnist datasets. The machine learning 
 
 ## Quick start
 In order to run the code, all you have to do is simply download and run the notebooks. The notebooks are self-explanatory and the code is modular, so it's very easy to reproduce the results and even integrate and test your own machine learning models and datasets.
+
+## References
+[1]: 
