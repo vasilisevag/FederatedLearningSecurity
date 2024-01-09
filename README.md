@@ -13,4 +13,4 @@ In order to run the code, all you have to do is simply download and run the note
 [1]: [Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-3_24498_paper.pdf)
 [2]: [Data Poisoning Attacks Against Federated Learning Systems](https://arxiv.org/pdf/2007.08432.pdf)
 [3]: [I'm an inline-style link](https://www.google.com)
-[4]: [I'm an inline-style link](https://www.google.com)
+[4]: [Membership Inference Attacks Against Machine Learning Models]([https://www.google.com (https://arxiv.org/pdf/1610.05820.pdf)https://arxiv.org/pdf/1610.05820.pdf)
